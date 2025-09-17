@@ -1,0 +1,6 @@
+[submodule "ih4xeu/themes/hugo-bearcub"]
+	path = ih4xeu/themes/hugo-bearcub
+	url = https://github.com/clente/hugo-bearcub
+[submodule "ih4xeu/themes/ananke"]
+	path = ih4xeu/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
