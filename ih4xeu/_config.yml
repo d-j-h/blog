@@ -24,7 +24,7 @@ skin: "/assets/css/skins/dark.css"
 locale: en-GB
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog, posts about tech, infosec, and any other things I can come up with!
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ih4x.eu" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  d-j-h
